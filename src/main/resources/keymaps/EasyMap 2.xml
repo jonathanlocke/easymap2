@@ -1,4 +1,4 @@
-<keymap version = "2.0.0" name = "EasyMap macOS" parent = "Mac OS X 10.5+">
+<keymap version = "2.0.0" name = "EasyMap 2" parent = "Mac OS X 10.5+">
 
     <!-- Tool Windows -->
 
@@ -39,6 +39,7 @@
     <action id = "ActivateProjectToolWindow">
         <keyboard-shortcut first-keystroke = "meta t" second-keystroke = "p"/>
     </action>
+    <action id = "ActivatePreviousWindow"/>
     <action id = "ActivatePullRequestsToolWindow">
         <keyboard-shortcut first-keystroke = "meta t" second-keystroke = "meta p"/>
     </action>
